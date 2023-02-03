@@ -16,6 +16,6 @@ myself to understand the code, I rush, want to get things <b>DONE<b>. I though t
 ## Take-aways
   - slowdown, do I understand what the code is doing?
   - read the flow in the application, what happens and when!
-  - BREATH!!!!
+  - breathe!!!!
   - Ask questions!!! Dummie! (We all want to be the best! The guy, the gal, that everyone ask for awesome solutions, *reality check knocking* - you can't excell 
   in everything, find your strenght, elevate them, find your weaknesses, ask questions, get better but don't try to play soccer with a hockey stick!)
